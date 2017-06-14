@@ -2,7 +2,7 @@
 title: I18N-helper A simple utility to help with I18N and I10N
 ---
 
-[![New ProImage](/images/ProImage.png)](http://www.new-proimage.com/)  
+# [![New ProImage](/images/ProImage.png)](http://www.new-proimage.com/) I18N-helper  
 __Developer:__ Ofer Skulsky (@oskulsky)  
 __Company:__ new-proimage (@new-proimage)  
 __License:__ LGPL v.3
