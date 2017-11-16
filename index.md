@@ -11,6 +11,7 @@ The main idea is to keep things simple, the simpler the better.
 </td></tr></table>
 
 ## Updates
+* The DevOps course ended.
 * I gave a lecture on I18N to tikal's java group
 
 ## My Projects:
